@@ -1,0 +1,224 @@
+body
+{
+  text-align: center;
+}
+a
+{
+  font-family: "roboto";
+}
+
+
+                     /* Navbar */
+#title
+{
+  background-color: #878787;
+}
+.navbar-brand
+{
+  font-family: "roboto";
+  font-size: 1rem;
+  
+}
+                    /* Container1 */
+h1
+{
+  font-family: "roboto";
+  font-size: 3rem;
+  line-height: 1.4;
+}
+.container-fluid
+{
+  padding: 0px;
+}
+.container-nav{
+    padding-top:10%
+}
+.nav-item
+{
+  padding:15px;
+}
+.nav-link
+{
+  font-size: 1.1rem;
+}
+.download-b
+{
+  margin:5% 3% 5% 0;
+}
+#pizza
+{
+  background-color: khaki;
+}
+#birra{
+  background-color: #ff8a62;
+}
+#gaseosa
+{
+  background-color: #b5c4b3;
+}
+#pancasero{
+  background-color: #e1af91;
+}
+#donas{
+  background-color: #f6deee;
+}
+.tab{
+    padding-top: 3%;
+}
+
+.alexis-tittle
+{
+  color: #fff;
+  font-family: "Roboto";
+  font-weight: 900;
+  padding-top:10%;
+  font-size: 2.5rem;
+}
+
+.action{
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+                    /* Features */
+.container
+{
+  padding:10% 7% ;
+  font-family: "roboto";
+  font-weight:700;
+}
+h3
+{
+  font-size: 1.4rem;
+  font-weight:700;
+}
+.feat
+{
+  font-size: 0.9rem;
+  font-weight:400;
+}
+.icon
+{
+  margin-bottom: 15px;
+  color: #ffc93c ;
+}
+.icon:hover
+{
+  color:#ff9a3c;
+}
+
+                     /* container3 */
+#carta
+{
+  background-color: #ff6f3c;
+}
+#press
+{
+  background-color: #ff6f3c;
+  padding:0 4% 4% 4% ;
+}
+.bran
+{
+  margin: 20px 20px 50px;
+  width:15%;
+}
+.sniff
+{
+  padding-bottom: 25px;
+  font-family: "roboto";
+  font-weight: 900;
+  color:#fff;
+  line-height: 1.5;
+}
+.testimonial-image1
+{
+  border-radius: 100%;
+  margin:20px;
+  width: 20%;
+}
+.testimonial-image
+{
+  border-radius: 100%;
+  margin:20px;
+  width:18%;
+}
+.carousel-item
+{
+  padding:8% 15% ;
+  font-family: "roboto";
+  font-weight: 400;
+  color:#fff;
+}
+.testimonial-text
+{
+  font-family: "roboto";
+  font-weight: 900;
+}
+
+                  /* Pricing */
+#pizza, #pancasero, #donas, #birra, #gaseosa
+{
+  padding: 7% 8% 5% 15%;
+  font-family: "roboto";
+}
+.plan
+{
+  font-weight: 900;
+}
+
+                    /* Footer */
+.foot
+{
+  background-color: black;
+  padding: 5% 14% 3% 14%;
+
+}
+.Copyright
+{
+  padding:3%;
+  font-family: "roboto";
+  font-weight: 400;
+  font-size: 0.8rem;
+}
+.footte
+{
+  font-family: "roboto";
+  font-weight: 900;
+  font-size: 1.8rem;
+  line-height: 1;
+  color: #fff;
+}
+.fa-whatsapp{
+    padding: 0px 10px 0px 10px;
+    color: black;
+    font-size: 2rem;
+}
+.punk
+{
+  padding: 0.4%;
+}
+                  /* Media Query Breakpoints*/
+@media(max-width:1028px)
+{
+  .testimonial-text
+  {
+    font-size: 1.2rem;
+  }
+}
+@media(max-width: 500px)
+{
+    .crazyb{
+        font-size: 2rem;
+    }
+}
+@media(max-width: 500px)
+{
+    .navbar{
+        padding: 30px !important;
+    }
+}
+@media(min-width: 1200px)
+{
+
+}
